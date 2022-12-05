@@ -80,12 +80,12 @@ footer {
     
     .step-box{
         width: 90%;
-        margin-bottom: 20px;
+        margin: 0 auto 20px auto;
         padding: 10px;
     }
     
     .step-box:last-child {
-        margin-bottom: 0;
+        margin: 0 auto 0 auto;
     }
 
 }
